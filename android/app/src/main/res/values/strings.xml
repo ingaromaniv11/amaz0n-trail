@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amaz0n Trail</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="settings">SETTINGS</string>
+    <string name="levels">LEVELS</string>
+    <string name="missions">MISSIONS</string>
+    <string name="collection">COLLECTION</string>
+    <string name="tutorial">TUTORIAL</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+    <string name="claim">CLAIM</string>
+    <string name="resume">RESUME</string>
+    <string name="cancel">CANCEL</string>
+    <string name="reset">RESET</string>
+
+    <string name="loading">LOADING</string>
+    <string name="splash_title">AMAZ0N TRAIL</string>
+    <string name="splash_subtitle">PARCEL ROUTING SHIFT</string>
+
+    <string name="menu_title">AMAZ0N TRAIL</string>
+    <string name="menu_kicker">PARCEL TRAIL</string>
+    <string name="menu_hint">ROUTE THE CART - MATCH COLOUR AND TOWN</string>
+    <string name="best_chip">BEST %1$s</string>
+    <string name="best_recap">BEST %1$s</string>
+    <string name="stage_line">STAGE %1$d - %2$s</string>
+    <string name="routes_open">%1$d OF %2$d ROUTES OPEN</string>
+    <string name="levels_caption">SIX ROUTES</string>
+    <string name="missions_caption">THREE ORDERS</string>
+    <string name="collection_caption">TWELVE STAMPS</string>
+    <string name="tutorial_caption">HOW TO ROUTE THE CART</string>
+
+    <string name="stat_parcels">PARCELS</string>
+    <string name="stat_stamps">STAMPS</string>
+    <string name="stat_parcel">PARCEL</string>
+    <string name="stat_time">TIME</string>
+    <string name="stat_combo">COMBO</string>
+    <string name="stat_express">EXPRESS</string>
+    <string name="parcel_counter">%1$d / %2$d</string>
+    <string name="time_value">%1$ds</string>
+    <string name="combo_value">x%1$s</string>
+    <string name="express_value">LANE</string>
+
+    <string name="strikes_desc">STRIKES %1$d OF %2$d</string>
+    <string name="score_desc">SCORE %1$s</string>
+    <string name="shelf_taped">SHELF TAPED</string>
+    <string name="controls_hint">TAP A SHELF OR USE GO LEFT / GO RIGHT</string>
+    <string name="go_left">GO LEFT</string>
+    <string name="go_right">GO RIGHT</string>
+    <string name="rush_tag">RUSH</string>
+    <string name="slip_title">ORDER SLIP</string>
+
+    <string name="pause_title">SHIFT PAUSED</string>
+    <string name="pause_body">THE CART WAITS ON THE SHELF TRAIL</string>
+    <string name="pause_desc">PAUSE THE SHIFT</string>
+
+    <string name="verdict_complete">SHIFT COMPLETE</string>
+    <string name="verdict_jammed">ROUTE JAMMED</string>
+    <string name="verdict_bell">SHIFT BELL</string>
+    <string name="reason_complete">%1$d PARCELS DELIVERED</string>
+    <string name="reason_jammed">THREE MISROUTES</string>
+    <string name="reason_bell">TIME CALLED</string>
+    <string name="perfect_shift">PERFECT SHIFT</string>
+    <string name="new_best">NEW BEST</string>
+    <string name="res_delivered">DELIVERED</string>
+    <string name="res_delivered_value">%1$d / %2$d</string>
+    <string name="res_best_combo">BEST COMBO</string>
+    <string name="res_tidy">TIDY SEALS</string>
+    <string name="res_express">EXPRESS USED</string>
+    <string name="stamp_earned">STAMP EARNED - %1$s</string>
+    <string name="stage_open">STAGE %1$d OPEN</string>
+    <string name="no_stamp">NO NEW STAMP THIS SHIFT - TRY A TIDY RUN</string>
+
+    <string name="town_riverside">RIVERSIDE</string>
+    <string name="town_oak_park">OAK PARK</string>
+    <string name="town_north_dock">NORTH DOCK</string>
+    <string name="town_hillside">HILLSIDE</string>
+    <string name="colour_orange">ORANGE</string>
+    <string name="colour_cobalt">COBALT</string>
+    <string name="colour_paper">PAPER</string>
+    <string name="colour_graphite">GRAPHITE</string>
+    <string name="parcel_desc">PARCEL %1$s TO %2$s</string>
+    <string name="bay_desc">BAY %1$s %2$s</string>
+    <string name="cart_desc">DELIVERY CART</string>
+    <string name="logo_desc">AMAZ0N TRAIL EMBLEM</string>
+
+    <string name="stage_1">NEIGHBOURHOOD ROUTE</string>
+    <string name="stage_2">RIVERSIDE DEPOT</string>
+    <string name="stage_3">NIGHT SHIFT</string>
+    <string name="stage_4">WINTER HUB</string>
+    <string name="stage_5">AIRPORT ANNEX</string>
+    <string name="stage_6">MEGA WAREHOUSE</string>
+
+    <string name="levels_title">LEVEL MAP</string>
+    <string name="levels_subtitle">SIX DEPOT ROUTES</string>
+    <string name="stage_selected">STAGE %1$d SELECTED</string>
+    <string name="stage_locked">CLEAR STAGE %1$d TO OPEN THIS ROUTE</string>
+    <string name="stage_best">BEST %1$s</string>
+    <string name="state_locked">LOCKED</string>
+    <string name="state_open">OPEN</string>
+    <string name="state_selected">SELECTED</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+
+    <string name="tutorial_title">HOW THE TRAIL WORKS</string>
+    <string name="tutorial_subtitle">THREE STEPS</string>
+    <string name="tutorial_step_1">TAP A SHELF BRANCH OR GO LEFT / GO RIGHT TO SEND THE CART DOWN ONE ROW</string>
+    <string name="tutorial_step_2">LAND IN THE BAY THAT MATCHES BOTH THE PARCEL COLOUR AND ITS TOWN</string>
+    <string name="tutorial_step_3">TAPED SHELVES ARE CLOSED - PLAN THE WHOLE ROUTE BEFORE THE TIMER RUNS OUT</string>
+    <string name="tutorial_step_counter">STEP %1$d OF %2$d</string>
+
+    <string name="collection_title">DEPOT STAMPS</string>
+    <string name="collection_counter">%1$d / %2$d STAMPS</string>
+    <string name="collection_empty">NO STAMPS YET - FINISH A TIDY SHIFT TO EARN ONE</string>
+    <string name="collection_disclaimer">COLLECTIBLE STAMPS ONLY - NO CASH VALUE</string>
+
+    <string name="missions_title">SHIFT MISSIONS</string>
+    <string name="missions_subtitle">THREE ACTIVE ORDERS</string>
+    <string name="missions_empty">ALL MISSIONS CLAIMED - NEW ONES NEXT SHIFT</string>
+    <string name="mission_progress">%1$d / %2$d</string>
+    <string name="mission_1">DELIVER 15 PARCELS</string>
+    <string name="mission_2">REACH COMBO X3</string>
+    <string name="mission_3">FINISH A PERFECT SHIFT</string>
+    <string name="mission_4">USE AN EXPRESS LANE</string>
+    <string name="mission_5">CLEAR A STAGE WITH NO STRIKES</string>
+    <string name="mission_6">DELIVER 5 RUSH PARCELS</string>
+
+    <string name="settings_title">SHIFT OPTIONS</string>
+    <string name="settings_subtitle">FOUR SWITCHES</string>
+    <string name="opt_relaxed">RELAXED TIMER</string>
+    <string name="opt_relaxed_note">TWELVE SECONDS PER PARCEL</string>
+    <string name="opt_colour_codes">COLOUR CODES</string>
+    <string name="opt_colour_codes_note">LETTERS ON PARCELS AND BAYS</string>
+    <string name="opt_route_hints">ROUTE HINTS</string>
+    <string name="opt_route_hints_note">OUTLINE THE TWO OPEN SHELVES</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_title">CLEAR ALL PROGRESS</string>
+    <string name="reset_body">STAGES STAMPS MISSIONS AND THE BEST SCORE WILL BE CLEARED</string>
+    <string name="progress_reset">PROGRESS RESET</string>
+
+    <string name="stamp_1">FIRST DELIVERY</string>
+    <string name="stamp_2">TIDY SHIFT</string>
+    <string name="stamp_3">COMBO X3</string>
+    <string name="stamp_4">RIVERSIDE REGULAR</string>
+    <string name="stamp_5">OAK PARK RUNNER</string>
+    <string name="stamp_6">NORTH DOCK HAND</string>
+    <string name="stamp_7">HILLSIDE CARRIER</string>
+    <string name="stamp_8">RUSH HOUR</string>
+    <string name="stamp_9">TAPED OUT</string>
+    <string name="stamp_10">EXPRESS RUNNER</string>
+    <string name="stamp_11">NIGHT SHIFT CLEAR</string>
+    <string name="stamp_12">MEGA WAREHOUSE CLEAR</string>
+    <string name="stamp_cond_1">DELIVER ONE PARCEL</string>
+    <string name="stamp_cond_2">FINISH A SHIFT WITH NO MISROUTE</string>
+    <string name="stamp_cond_3">REACH COMBO X3</string>
+    <string name="stamp_cond_4">CLEAR STAGE 2</string>
+    <string name="stamp_cond_5">DELIVER FIVE PARCELS IN ONE SHIFT</string>
+    <string name="stamp_cond_6">SCORE 1500 IN ONE SHIFT</string>
+    <string name="stamp_cond_7">SCORE 3000 IN ONE SHIFT</string>
+    <string name="stamp_cond_8">USE AN EXPRESS LANE</string>
+    <string name="stamp_cond_9">KEEP THREE TIDY SEALS</string>
+    <string name="stamp_cond_10">USE TWO EXPRESS LANES</string>
+    <string name="stamp_cond_11">CLEAR STAGE 3</string>
+    <string name="stamp_cond_12">CLEAR STAGE 6</string>
+</resources>
